@@ -5,7 +5,7 @@ Flipper Zero app that shows up as a USB floppy drive. It reads a 720K or 1.44M `
 Forked from the official [Mass Storage app](https://github.com/flipperdevices/flipperzero-good-faps/tree/dev/mass_storage). GPL-3.0.
 
 ## What the host sees
-
+Fork with sound mod- the main repo fork i used was https://github.com/piersroberts/flipperfloppy
 | Field | Value |
 | --- | --- |
 | Interface class | Mass Storage (0x08) |
